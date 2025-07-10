@@ -1,0 +1,44 @@
+{
+    "C:\\Users\\trand27\\Downloads": [
+        "download",
+        "temp"
+    ],
+    "C:\\Users\\trand27\\Pictures": [
+        "image",
+        "photo",
+        "screenshot"
+    ],
+    "C:\\Users\\trand27\\Documents": [
+        "pdf",
+        "txt",
+        "report"
+    ],
+    "C:\\Users\\trand27\\Music": [
+        "mp3",
+        "wav",
+        "audio"
+    ],
+    "C:\\Users\\trand27\\Videos": [
+        "mp4",
+        "mkv",
+        "video"
+    ],
+    "C:\\Users\\trand27\\Desktop": [
+        "shortcut",
+        "desktop"
+    ],
+    "C:\\Users\\trand27\\Duplicates": [
+        "duplicate",
+        "copy"
+    ],
+    "C:\\Users\\trand27\\Projects": [
+        "project",
+        "code",
+        "development"
+    ],
+    "C:\\Users\\trand27\\Archives": [
+        "zip",
+        "rar",
+        "archive"
+    ]
+}
